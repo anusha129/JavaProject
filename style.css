@@ -1,0 +1,59 @@
+body{
+	background-image:url(a1.jpg);
+}
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(red, green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h6{
+color:blue;
+}
+
+#stid{
+	font-size: 72px;
+  background: -webkit-linear-gradient(red, green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	
+}
+h2.hometitle{
+  padding:30px 0;
+  text-align: center;
+}
+.block{
+  background: #BE90D4;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+}
+.img-thumbnail img{
+  max-width: 100%;
+}
+.img-thumbnail{
+  margin-bottom: 30px;
+  min-height: 240px;
+  position: relative;
+}
+.img-thumbnail .btn-sm{
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+}
+.well a{
+  width: 19%;
+  display: inline-block;
+    text-align: center;
+}
+.bigIcon{
+  font-size: 48px;
+  padding: 5px 20px;
+}
+footer{
+  position: fixed;
+  bottom: 10px;
+  background: #efefef;
+}
